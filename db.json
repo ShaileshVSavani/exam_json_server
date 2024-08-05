@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": "1cfd",
+      "title": "Black Fujifilm Dslr Camera",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "345"
+    },
+    {
+      "id": "cf2d",
+      "title": "Black Dslr Camera on White Surface",
+      "image": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "357"
+    },
+    {
+      "id": "095b",
+      "title": "Close Up Shot of a Camera",
+      "image": "https://images.pexels.com/photos/249597/pexels-photo-249597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "313"
+    },
+    {
+      "id": "c2a9",
+      "title": "Black and Silver Film Camera",
+      "image": "https://images.pexels.com/photos/1091294/pexels-photo-1091294.jpeg",
+      "price": "356"
+    },
+    {
+      "id": "7f0a",
+      "title": "Selective Photo of Black Sony Dslr Camera",
+      "image": "https://images.pexels.com/photos/1178337/pexels-photo-1178337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "321"
+    },
+    {
+      "id": "96ab",
+      "title": " Canon Powershot SX70 20.3MP Digital Camera 65x Optical Zoom Lens 4K Video 3-inch (7.62cm) LCD Tilt Screen (Black)",
+      "image": "https://m.media-amazon.com/images/I/71zPRWYUyuL._SL1500_.jpg",
+      "price": "400"
+    }
+  ]
+}
